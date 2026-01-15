@@ -1,3 +1,9 @@
+**Projek ini digunakan untuk memenuhi Tugas UAS Mata Kuliah Pemrograman Bergerak**
+
+**NAMA: ANANDA MUHAMAD PRASETYO**
+**NIM : 2205101082**
+**KELAS : 7D**
+
 # BMI Kalkulator 📊
 
 Aplikasi kalkulator Body Mass Index (BMI) yang lengkap dengan fitur pelacakan kesehatan, dibuat menggunakan Flutter.
